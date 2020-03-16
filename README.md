@@ -1,2 +1,3 @@
-# Project-MP
-Project MP 
+# altSA
+
+Main repository of the project
